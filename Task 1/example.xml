@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <squadName>Super hero squad</squadName>
+  <homeTown>Metro City</homeTown>
+  <formed>2016</formed>
+  <secretBase>Super tower</secretBase>
+  <active>true</active>
+  <members>
+    <name>Molecule Man</name>
+    <age>29</age>
+    <secretIdentity>Dan Jukes</secretIdentity>
+    <powers>Radiation resistance</powers>
+    <powers>Turning tiny</powers>
+    <powers>Radiation blast</powers>
+  </members>
+  <members>
+    <name>Madame Uppercut</name>
+    <age>39</age>
+    <secretIdentity>Jane Wilson</secretIdentity>
+    <powers>Million tonne punch</powers>
+    <powers>Damage resistance</powers>
+    <powers>Superhuman reflexes</powers>
+  </members>
+  <members>
+    <name>Eternal Flame</name>
+    <age>1000000</age>
+    <secretIdentity>Unknown</secretIdentity>
+    <powers>Immortality</powers>
+    <powers>Heat Immunity</powers>
+    <powers>Inferno</powers>
+    <powers>Teleportation</powers>
+    <powers>Interdimensional travel</powers>
+  </members>
+  <members>
+    <name>Shadow Stalker</name>
+    <age>34</age>
+    <secretIdentity>Alex Turner</secretIdentity>
+    <powers>Invisibility</powers>
+    <powers>Shadow manipulation</powers>
+    <powers>Stealth</powers>
+  </members>
+  <members>
+    <name>Thunder Strike</name>
+    <age>28</age>
+    <secretIdentity>Mike Ross</secretIdentity>
+    <powers>Weather control</powers>
+    <powers>Flight</powers>
+    <powers>Electric manipulation</powers>
+  </members>
+  <members>
+    <name>Aqua Master</name>
+    <age>42</age>
+    <secretIdentity>Liam Waters</secretIdentity>
+    <powers>Water control</powers>
+    <powers>Underwater breathing</powers>
+    <powers>Aquatic communication</powers>
+  </members>
+  <members>
+    <name>Mystic Mage</name>
+    <age>500</age>
+    <secretIdentity>Sophia Sage</secretIdentity>
+    <powers>Magic</powers>
+    <powers>Telekinesis</powers>
+    <powers>Teleportation</powers>
+  </members>
+  <members>
+    <name>Iron Clad</name>
+    <age>35</age>
+    <secretIdentity>Mason Steele</secretIdentity>
+    <powers>Super strength</powers>
+    <powers>Invulnerability</powers>
+    <powers>Metal manipulation</powers>
+  </members>
+</root>
